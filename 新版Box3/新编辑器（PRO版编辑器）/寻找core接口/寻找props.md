@@ -5,3 +5,5 @@
 ![[Pasted image 20230617193843.png]]
 <s> 这个甚至会把ReactDevTools卡崩（笑 </s>
 
+smyluke：新编辑器可能没有core，只有一堆props。旧版外挂的关键字（比如setVoxel）基本都可以找到，但是无法直接使用
+
